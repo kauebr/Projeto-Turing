@@ -1,5 +1,5 @@
 # Projeto Turing
- Modelo preditivo de risco de suicídio com dados abertos do DataSUS e a biblioteca PySUS
+ Modelo preditivo de risco de suicídio com dados abertos do DataSUS e a biblioteca PySUS e do IBGE
 
 
 AVISO IMPORTANTE
