@@ -11,4 +11,5 @@ Se você ou alguém que você conhece estiver passando por dificuldades emociona
 # Contando a História:
 
 
-![image](https://github.com/user-attachments/assets/29f17965-45ee-4a46-9f29-d8756e3528f5)
+![image](https://github.com/user-attachments/assets/afc3ae12-a850-4665-8f3c-4d571e3e9d3c)
+
