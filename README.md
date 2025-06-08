@@ -13,10 +13,11 @@ Se você ou alguém que você conhece estiver passando por dificuldades emociona
 ![image](https://github.com/user-attachments/assets/afc3ae12-a850-4665-8f3c-4d571e3e9d3c)
 
 
-👥 Contribuidores
-Nome	GitHub	Função/Participação
-Matheus Pereira Medeiros	@Matheus-PM	Desenvolvimento em PySpark e análise de dados
-Sostenes Ramos C. Junior	@SostenesJr	Integração com DataSUS e modelagem preditiva
-Kaue Mandarino	@kauebr	Estrutura do projeto, revisão e deploy
+## 👥 Contribuidores
 
+| Nome                         | GitHub                                         | Função/Participação                          |
+|------------------------------|-----------------------------------------------|----------------------------------------------|
+| Matheus Pereira Medeiros     | [@Matheus-PM](https://github.com/Matheus-PM)  | Desenvolvimento em PySpark e análise de dados |
+| Sostenes Ramos C. Junior     | [@SostenesJr](https://github.com/SostenesJr)  | Integração com DataSUS e modelagem preditiva  |
+| Kaue Mandarino               | [@kauebr](https://github.com/kauebr)          | Estrutura do projeto, revisão e deploy        |
 
