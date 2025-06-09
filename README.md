@@ -1,5 +1,25 @@
+![image](https://github.com/user-attachments/assets/e769e611-bb5d-4910-8266-932ec84f84a8)
+
 # Projeto Turing
- Modelo preditivo de risco de suicídio baseado em **PySpark** e dados abertos do **DataSUS** e **IBGE**, oriúndos do **Projeto Lab IA**
+
+Modelo preditivo de risco de suicídio desenvolvido com **PySpark**, utilizando dados abertos do **DataSUS** e do **IBGE**, como parte do **Projeto Lab IA**.
+
+## Objetivo
+
+O objetivo do Projeto Turing é construir uma solução **preventiva e inteligente**, capaz de identificar automaticamente sinais estatísticos de **risco elevado de suicídio** com base no histórico e perfil de um paciente registrado no SUS.
+
+Assim, ao atender uma ligação no **CVV (Centro de Valorização da Vida)** ou durante um atendimento em unidades do **SUS**, o sistema pode emitir um **alerta em tempo real** ao profissional responsável, informando a probabilidade de risco com base em modelos preditivos de aprendizado de máquina.
+
+## Impacto Esperado
+
+- **Apoio direto a profissionais da saúde** e atendentes do CVV com informações baseadas em dados.
+- **Intervenção precoce** em casos de alto risco.
+- **Campanhas de prevenção direcionadas**, com base em insights obtidos a partir dos dados.
+- **Salvamento de vidas** por meio do uso ético e responsável da ciência de dados.
+
+---
+
+*“A tecnologia a serviço da vida.”*
 
 AVISO IMPORTANTE
 
@@ -9,8 +29,8 @@ Se você ou alguém que você conhece estiver passando por dificuldades emociona
 
 # Contando a História:
 
+![Foundation (1)](https://github.com/user-attachments/assets/b3c78436-4977-4f1c-b384-157755375eff)
 
-![image](https://github.com/user-attachments/assets/afc3ae12-a850-4665-8f3c-4d571e3e9d3c)
 
 
 ## 👥 Contribuidores
@@ -19,5 +39,5 @@ Se você ou alguém que você conhece estiver passando por dificuldades emociona
 |------------------------------|-----------------------------------------------|----------------------------------------------|
 | Matheus Pereira Medeiros     | [@Matheus-PM](https://github.com/Matheus-PM)  | Desenvolvimento em PySpark e análise de dados |
 | Sostenes Ramos C. Junior     | [@SostenesJr](https://github.com/SostenesJr)  | Integração com DataSUS e modelagem preditiva  |
-| Kaue Mandarino               | [@kauebr](https://github.com/kauebr)          | Estrutura do projeto, revisão e deploy        |
+| Kauê Mandarino               | [@kauebr](https://github.com/kauebr)          | Estrutura do projeto, revisão e deploy        |
 
