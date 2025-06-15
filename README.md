@@ -29,7 +29,7 @@ Se você ou alguém que você conhece estiver passando por dificuldades emociona
 
 # Contando a História:
 
-![Foundation (1)](https://github.com/user-attachments/assets/b3c78436-4977-4f1c-b384-157755375eff)
+[![Foundation (1)](https://github.com/user-attachments/assets/b3c78436-4977-4f1c-b384-157755375eff)](https://www.canva.com/design/DAGpG0aIUR0/oKT0E0628hq3ag4nushXfA/edit?utm_content=DAGpG0aIUR0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
@@ -40,5 +40,6 @@ Se você ou alguém que você conhece estiver passando por dificuldades emociona
 | Kauê Mandarino               | [@kauebr](https://github.com/kauebr)          |
 | Matheus Pereira Medeiros     | [@Matheus-PM](https://github.com/Matheus-PM)  |
 | Sostenes Ramos C. Junior     | [@SostenesJr](https://github.com/SostenesJr)  |
+
 
 
