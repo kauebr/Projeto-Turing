@@ -1,5 +1,4 @@
-![Foundation (3)](https://github.com/user-attachments/assets/c5b30dea-7242-44a6-9136-f2a10c8eb3c7)
-
+![image](https://github.com/user-attachments/assets/e769e611-bb5d-4910-8266-932ec84f84a8)
 
 # Projeto Turing 
 
