@@ -28,7 +28,8 @@ Este software é apenas para fins de pesquisa e educação. Nenhuma parte deste 
 Se você ou alguém que você conhece estiver passando por dificuldades emocionais, procure ajuda especializada. No Brasil, você pode entrar em contato com o CVV – Centro de Valorização da Vida pelo telefone 188 ou pelo site https://www.cvv.org.br.
 
 # Contando a História:
-![Foundation (3)](https://github.com/user-attachments/assets/2e9e4a0b-52a6-4afa-89a5-3f4c00c89e69)
+![Foundation (5)](https://github.com/user-attachments/assets/14f91286-5f6c-4769-b3cc-917345d0bda4)
+
 
 
 
