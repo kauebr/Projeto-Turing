@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/e769e611-bb5d-4910-8266-932ec84f84a8)
 
-# Projeto Turing
+# Projeto Turing 
 
 Modelo preditivo de risco de suicídio desenvolvido com **PySpark**, utilizando dados abertos do **DataSUS** e do **IBGE**, como parte do **Projeto Lab IA**.
 
