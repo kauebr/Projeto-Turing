@@ -43,7 +43,7 @@ Se você ou alguém que você conhece estiver passando por dificuldades emociona
 | Kauê Mandarino               | [@kauebr](https://github.com/kauebr)          |
 | Matheus Pereira Medeiros     | [@Matheus-PM](https://github.com/Matheus-PM)  |
 | Sostenes Ramos C. Junior     | [@SostenesJr](https://github.com/SostenesJr)  |
-| Michele Souza Silva Costa    | .[@mimiballet](https://github.com/mimiballet) |
+| Michele Souza Silva Costa    | [@mimiballet](https://github.com/mimiballet) |
 
 
 
