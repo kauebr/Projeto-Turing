@@ -1,0 +1,11 @@
+Links Importantes:
+
+Fonte dos dados (CSV):  
+https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/SIM/DO23OPEN.csv
+
+Dicionário de Dados (Data Dictionary): 
+https://diaad.s3.sa-east-1.amazonaws.com/sim/Mortalidade_Geral+-+Estrutura.pdf
+
+Site Base dos dados:
+https://opendatasus.saude.gov.br/dataset/sim/
+
