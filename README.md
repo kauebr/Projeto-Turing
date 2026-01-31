@@ -27,8 +27,8 @@ Este software é apenas para fins de pesquisa e educação. Nenhuma parte deste 
 
 Se você ou alguém que você conhece estiver passando por dificuldades emocionais, procure ajuda especializada. No Brasil, você pode entrar em contato com o CVV – Centro de Valorização da Vida pelo telefone 188 ou pelo site https://www.cvv.org.br.
 
-# Contando a História:
-<img width="1100" height="694" alt="image" src="https://github.com/user-attachments/assets/d16804fc-89a2-473d-9283-80ffa351973b" />
+# Storytelling:
+[Link](https://www.canva.com/design/DAGpG0aIUR0/oKT0E0628hq3ag4nushXfA/edit?utm_content=DAGpG0aIUR0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
@@ -42,8 +42,6 @@ Se você ou alguém que você conhece estiver passando por dificuldades emociona
 | Nome                         | GitHub                                         |
 |------------------------------|-----------------------------------------------|
 | Kauê Mandarino               | [@kauebr](https://github.com/kauebr)          |
-| Matheus Pereira Medeiros     | [@Matheus-PM](https://github.com/Matheus-PM)  |
-| Sostenes Ramos C. Junior     | [@SostenesJr](https://github.com/SostenesJr)  |
 | Michele Souza Silva Costa    | [@mimiballet](https://github.com/mimiballet) |
 
 
