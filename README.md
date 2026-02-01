@@ -2,7 +2,7 @@
 
 # Projeto Turing 
 
-Modelo preditivo de risco de suicídio em desenvolvimento com **PySpark**, utilizando dados abertos do **DataSUS** e do **IBGE**, como parte do **Projeto Lab IA**.
+Modelo preditivo de risco de suicídio em desenvolvimento com **PySpark**, utilizando dados abertos do **DataSUS** e do **IBGE**, desenvolvido dentro **Laboratório Nacional de Dados**.
 
 ## Objetivo
 
