@@ -28,7 +28,8 @@ Este software é apenas para fins de pesquisa e educação. Nenhuma parte deste 
 Se você ou alguém que você conhece estiver passando por dificuldades emocionais, procure ajuda especializada. No Brasil, você pode entrar em contato com o CVV – Centro de Valorização da Vida pelo telefone 188 ou pelo site https://www.cvv.org.br.
 
 # Storytelling:
-[Link](https://www.canva.com/design/DAGpG0aIUR0/oKT0E0628hq3ag4nushXfA/edit?utm_content=DAGpG0aIUR0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Link Página 01](https://www.canva.com/design/DAGpG0aIUR0/oKT0E0628hq3ag4nushXfA/edit?utm_content=DAGpG0aIUR0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Link Página 02](https://www.canva.com/design/DAGpG0aIUR0/uDK4BbUh3aP6UGToCBEPhg/view?utm_content=DAGpG0aIUR0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4d4f3bcaaa)
 
 
 
