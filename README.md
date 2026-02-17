@@ -48,6 +48,10 @@ Se você ou alguém que você conhece estiver passando por dificuldades emociona
 | Kauê Mandarino               | [@kauebr](https://github.com/kauebr)          |
 | Michele Souza Silva Costa    | [@mimiballet](https://github.com/mimiballet) |
 
+APOIE ESTE PROJETO
+Pix (CPF): 065.024.389-70
+Kauê Mandarino
+
 
 
 
