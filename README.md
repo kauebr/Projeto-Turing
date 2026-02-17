@@ -48,6 +48,10 @@ Se você ou alguém que você conhece estiver passando por dificuldades emociona
 | Kauê Mandarino               | [@kauebr](https://github.com/kauebr)          |
 | Michele Souza Silva Costa    | [@mimiballet](https://github.com/mimiballet) |
 
+
+
+     
+
 > Este projeto é mantido de forma independente.  
 > Se fizer sentido para você, apoie via Pix:
 >
