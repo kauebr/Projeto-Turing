@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/e769e611-bb5d-4910-8266-932ec84f84a8)
+
+![Uploading image.png…]()
+
 
 # Projeto Turing 
 
