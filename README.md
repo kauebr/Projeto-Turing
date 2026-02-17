@@ -1,5 +1,6 @@
 
-![Uploading image.png…]()
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/52874daf-3c4c-43bd-b1f7-b7b0c54ce963" />
+
 
 
 # Projeto Turing 
