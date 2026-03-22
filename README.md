@@ -1,4 +1,7 @@
-![image](https://github.com/user-attachments/assets/e769e611-bb5d-4910-8266-932ec84f84a8)
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/52874daf-3c4c-43bd-b1f7-b7b0c54ce963" />
+
+
 
 # Projeto Turing 
 
@@ -46,5 +49,28 @@ Se você ou alguém que você conhece estiver passando por dificuldades emociona
 | Michele Souza Silva Costa    | [@mimiballet](https://github.com/mimiballet) |
 
 
+
+     
+
+## 💚 Apoie o Projeto Turing
+
+O **Projeto Turing** é uma iniciativa **independente**, aberta e sem fins lucrativos, construída com o objetivo de **salvar vidas por meio da ciência de dados**.
+
+Todo o desenvolvimento — desde a coleta, tratamento e modelagem dos dados até a documentação e divulgação científica — é realizado de forma voluntária, com dedicação de tempo, conhecimento técnico e responsabilidade ética.
+
+Seu apoio financeiro contribui diretamente para:
+- Continuidade do desenvolvimento do modelo preditivo
+- Infraestrutura computacional e testes em larga escala
+- Produção de materiais educativos e científicos
+- Expansão do impacto social do projeto
+
+Se este projeto faz sentido para você e se você acredita que **dados podem e devem ser usados para prevenir o sofrimento humano**, considere apoiar.
+
+> **Pix (CPF):** 065.024.389-70  
+> **Titular:** Kauê Mandarino
+
+Cada apoio fortalece a pesquisa, amplia o alcance do projeto e ajuda a transformar tecnologia em cuidado.
+
+*“A tecnologia a serviço da vida.”*
 
 
